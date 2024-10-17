@@ -4,7 +4,6 @@
 int add(int a, int b);
 int a = 0;
 int b = 0;
-int c = 0;
 void setup() {
   // put your setup code here, to run once:
   int result = add(2, 3);
